@@ -1,7 +1,8 @@
 ## Hello there! I am Jorge Rangel, a student of programmer languages!
 - 💻 Brazilian Front-end Student and Developer;
-- 📚 Currently learning more about HTML5, CSS3 and JS;
-- 📈 Motivated to perform more masterfully every day.
+- 📚 Currently learning more about HTML5 and CSS3;
+- 📈 Motivated to perform more masterfully every day;
+- 🎓 Discipline aways first.
 ##
 ### Languages that i use and being studied.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
