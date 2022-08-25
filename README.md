@@ -1,5 +1,5 @@
 ## Hello there! I am Jorge Rangel, a student of programmer languages!
-- 💻 Brazilian Front-end Student and Developer;
+- 💻 Brazilian Full-Stack Student and Developer;
 - 📚 Currently learning more about HTML5 and CSS3;
 - 📈 Motivated to perform more masterfully every day;
 - 🎓 Discipline aways first.
