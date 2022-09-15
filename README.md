@@ -1,4 +1,4 @@
-## Hello there! I am Jorge Rangel, a student and developer of programmer languages!
+## Hello there! I am Jorge Rangel, a developer and student of programmer languages!
 - 💻 Brazilian Full-Stack Student and Developer;
 - 📚 Currently learning more about Python;
 - 📈 Motivated to perform more masterfully every day;
