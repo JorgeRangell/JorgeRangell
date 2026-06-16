@@ -15,20 +15,7 @@
 
 #
 
-### Let's connect:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=004182" alt="LinkedIn" height="45">
-  </a>
-  <a href="mailto:jorgeantoniograngel@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=B31B1B" alt="Gmail" height="45">
-  </a>
-</div>
-
-#
-
-### Core Tech Stack:
+### My Tech Stacks:
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -82,6 +69,19 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
+
+### Let's connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=004182" alt="LinkedIn" height="45">
+  </a>
+  <a href="mailto:jorgeantoniograngel@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=B31B1B" alt="Gmail" height="45">
+  </a>
+</div>
 
 #
 
