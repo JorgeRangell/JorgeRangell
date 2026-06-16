@@ -10,57 +10,29 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JorgeRangell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Jorge" width="48%" height="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRangell&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRangell&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" width="48%" height="100%" />
 </div>
 
 #
 
 ### My Tech Stack:
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" />
-      <br><b>SQL</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
-      <br><b>GCP</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40" alt="BigQuery" />
-      <br><b>BigQuery</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://avatars.githubusercontent.com/u/59933973?s=280&v=4" width="40" height="40" alt="DataProc" />
-      <br><b>DataProc</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" />
-      <br><b>Airflow</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40" alt="PySpark" />
-      <br><b>PySpark</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40" alt="Databricks" />
-      <br><b>Databricks</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" />
-      <br><b>PowerBI</b>
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/looker/4285F4" width="40" height="40" alt="Looker Studio" />
-      <br><b>Looker</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" height="45" alt="SQL" title="SQL" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" title="Pandas" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" title="Jupyter" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP" title="GCP" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" title="Azure" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="45" height="45" alt="BigQuery" title="BigQuery" />&nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/59933973?s=280&v=4" width="45" height="45" alt="DataProc" title="DataProc" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="45" height="45" alt="Databricks" title="Databricks" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="45" height="45" alt="PySpark" title="PySpark" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45" height="45" alt="Airflow" title="Airflow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" height="45" alt="Power BI" title="Power BI" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/looker/4285F4" width="45" height="45" alt="Looker Studio" title="Looker Studio" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git" />
+</div>
 
 #
 
