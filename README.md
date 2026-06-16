@@ -15,7 +15,7 @@
 
 #
 
-### My Tech Stacks:
+### My Tech Stack:
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
