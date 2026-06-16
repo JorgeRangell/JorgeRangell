@@ -72,17 +72,9 @@
 
 #
 
-### Let's connect!
+### Connect with me:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=004182" alt="LinkedIn" height="45">
-  </a>
-  <a href="mailto:jorgeantoniograngel@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=B31B1B" alt="Gmail" height="45">
-  </a>
-</div>
-
-#
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:jorgeantoniograngel@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b2f42&height=120&section=footer"/>
