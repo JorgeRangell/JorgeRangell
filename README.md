@@ -1,22 +1,78 @@
-## Hello there! I am Jorge Rangel, a developer and student of programmer languages!
-- 💻 Brazilian Data Analyst Student and Developer;
-- 📚 Currently learning more about SQL for GCP;
-- 📈 Motivated to perform more masterfully every day;
-##
-### Languages that i use and being studied.
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"></a>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-##
-### Contact and interest links.
-<div>
-<a href = "mailto:jorgeantoniograngel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/jorg_rangel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b2f42&height=120&section=header"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Jorge+Rangel+%F0%9F%91%8B;Mid-Level+Data+Analyst+%7C+Data+Engineer;Architecting+Cloud+Solutions+%26+Pipelines;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+
+#
+
+### GitHub Analytics:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRangell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Jorge" width="48%" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRangell&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" width="48%" height="100%" />
 </div>
+
+#
+
+### Core Tech Stack:
+
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br><b>Python</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL" />
+      <br><b>SQL</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP" />
+      <br><b>GCP</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40" alt="BigQuery" />
+      <br><b>BigQuery</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/59933973?s=280&v=4" width="40" height="40" alt="DataProc" />
+      <br><b>DataProc</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Airflow" />
+      <br><b>Airflow</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="40" height="40" alt="PySpark" />
+      <br><b>PySpark</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40" height="40" alt="Databricks" />
+      <br><b>Databricks</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" />
+      <br><b>PowerBI</b>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/looker/4285F4" width="40" height="40" alt="Looker Studio" />
+      <br><b>Looker</b>
+    </td>
+  </tr>
+</table>
+
+#
+
+### Let's connect:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorge-antônio-rangel-7932b5232/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&labelColor=004182" alt="LinkedIn" height="45">
+  </a>
+  <a href="mailto:jorgeantoniograngel@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&labelColor=B31B1B" alt="Gmail" height="45">
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2b2f42&height=120&section=footer"/>
