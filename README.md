@@ -9,8 +9,9 @@
 ### GitHub Analytics:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRangell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Jorge" width="48%" height="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRangell&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens mais usadas" width="48%" height="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JorgeRangell&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Jorge" height="195" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRangell&layout=compact&theme=tokyonight&hide_border=true&v=4&card_width=400" alt="Linguagens mais usadas" height="195" />
 </div>
 
 #
